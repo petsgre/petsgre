@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Emacs** **Vue** **React** **Java**
 - 📫 How to reach me: petsgre@gmail.com
 
-拼搏200天，明年见！🧐
+拼搏，期待不一样的自己！🧐
 
